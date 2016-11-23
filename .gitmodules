@@ -28,3 +28,6 @@
 [submodule "bundle/latex-unicoder.vim"]
 	path = bundle/latex-unicoder.vim
 	url = https://github.com/joom/latex-unicoder.vim.git
+[submodule "colors/vim-dzo"]
+	path = colors/vim-dzo
+	url = https://github.com/Blevs/vim-dzo.git

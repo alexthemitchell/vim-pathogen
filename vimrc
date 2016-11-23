@@ -11,4 +11,4 @@ set shiftround		" Round indent to nearest shiftwidth multiple
 set mouse=a       " Allow mousewheel to scroll
 
 autocmd FileType txt set spell spelllang=en
-
+colorscheme molokai
