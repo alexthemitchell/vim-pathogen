@@ -25,3 +25,6 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "bundle/latex-unicoder.vim"]
+	path = bundle/latex-unicoder.vim
+	url = https://github.com/joom/latex-unicoder.vim.git
