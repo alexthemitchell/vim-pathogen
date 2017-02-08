@@ -31,3 +31,6 @@
 [submodule "colors/vim-dzo"]
 	path = colors/vim-dzo
 	url = https://github.com/Blevs/vim-dzo.git
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
